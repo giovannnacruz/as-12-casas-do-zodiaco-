@@ -5,11 +5,13 @@
     list-style: none;
     text-decoration: none;
     background-color: black;
+    color: aliceblue;
 }
 h1 {
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
 color: darkkhaki;
 }
+
 .cavaleiro {
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 color: darkkhaki;
